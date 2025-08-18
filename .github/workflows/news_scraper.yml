@@ -2,7 +2,7 @@ name: News Scraper
 
 on:
   schedule:
-    - cron: "5 * * * *" # اجرای ساعتی در دقیقه ۵
+    - cron: "*/15 * * * *" # اجرا هر ۱۵ دقیقه
   workflow_dispatch: # اجرای دستی
 
 jobs:
