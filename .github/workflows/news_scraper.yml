@@ -1,0 +1,48 @@
+name: News Scraper
+
+on:
+  schedule:
+    - cron: "5 * * * *" # اجرای ساعتی در دقیقه ۵
+  workflow_dispatch: # اجرای دستی
+
+jobs:
+  scrape-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.HAMEDMKM }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Ensure data directory exists
+        run: mkdir -p data
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run news scraper
+        run: python clientbot6.py
+
+      - name: Commit & Push changes to main
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "🔁 Update news JSON automatically"
+          git push https://${{ secrets.HAMEDMKM }}@github.com/hamednourzaei/api-landing.git main
