@@ -33,7 +33,7 @@ def search_news(today):
         time.sleep(random.uniform(2, 5))  # افزایش تأخیر به 2-5 ثانیه
         
         # جستجوی عمومی برای اخبار
-        search = gn.search(query='all', when='1m')  # جستجو برای یک ماه گذشته
+        search = gn.search(query='all', when='1d')  # جستجو برای یک ماه گذشته
         print(f"📢 دریافت {len(search['entries'])} خبر از Google News")
         
         if not search['entries']:
