@@ -898,5 +898,590 @@
     "source": "ABC7 Chicago",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitBNBVV95cUxQWFFXS0Y3Unh0Vzk5eU9IZzVnNElJUXZBdDhRVVZZaVpSSVB4TTloZjZTaGJscXhBdjBmV2NfbkxTTTNLTTZBTjczQzBHX2ppLUU4VS0xLU52bjl3RHFBdzRReFBvUmh0Mzd4eDBzNkVzVGxOamxWRllUa0lvYUFKT0NKN3A2X3VWdG9iMDl5Y3pReWRTNTJYbHN2c19sN0FXUTc3bU9kdUMwZko5dEZqdzV6MXV5bDF2NENUbEh2QXU0ak9reE5kZm92cWRPQTQycDkyT0M0aWZHY1JlWFRMQXp6Q2tQVE9pZllzX3M1OC1jcjNtNGZYUF91bzIyekNzVkFNdUtRaTlVWXEwNDNuTzdFV2wzYVR2U0xUbVcwWVhVci16RVhna21oVXlaQ3hFdVMyVklIbVFFWUdHamtyN0RmYmxRcXNDUDdXaV81WTJ4MmdQUHFSSlA3eEZmWVNFUTQ3NkhJUENpbHVVQ19ZRGlqekpxemZHelJ6bkROTzhoVGs0SUY1SUlXVGVhMVlIYTRhczFPX1p1bzFZMkVzQWt4MXBMZm1UTGNvcUE2WndpT1lUakNlR242alNWX2lnQmx3NVcwVzNmQmZ3cEtMam0zSkxPMGx4RUxwd0V4UXdfVVJyZ2lKaDlMN1ozMFVaUENTbGY0cUYzakFPR1lzZEZ6ak0wekg3WDlZZ1h3Wlptd29GTzRfUXg1bDZBMEp2c2tTWW5veXdSUnhIVGVEREpXS1J5Tk9LZTcwN2QwNUJ3WmdWdkQ5dXBmZFc3Uzg5OEdFX1F1dmVCdWJxWFMyWmdpNFlCYUFoLTYwY0lHYnhQV2dRVmhKSV9lTktDaE51N1MxVldILVF3amlxck5ZZGlCQlhKUDYxTFU5YWE4dXFQOENYeDl0MHFzVXY0XzdfUVI0b1ZQR1JFZktJbDVRaF9LMnNsV1ZWeUlkdDVkbWRDRGdEYmxjdHFiTHl4UjU2X2JrZy0wVElRdDBsWV9CYWZJa1NlaE9sZEYzcjIxZHpZeHJUcHNnZHQ2TVZIY2JfMVk3ZUtBSXFHUWxkMmQ4TGxXVTBnNEhQRk9KcEdPQnZUYUpIZFg4b0k3OU5QN0VpSXhiWENhRzY2LUJZY0tFcTZvcHlETWp4S2Y5OVNMNGhwV0dBQnlraDktYW91cV90cTkxTVkzbFNvbGFKYkdKTWRyZmRXazRnQWc3N1VORWVaZ2I3YW9JV1lvV3dvQ2kwUnB3Y0N0NURxZ2poVFhhOTVHQ2VUUWhmblNuVmZwaV9vQjRxZVpaMW82TzdnRE14Mm1FemtLVG9NWC01VDhXZXFOWTBXN1MzaF9qdHRyQzJJa3lfa1RGcDYxMEY2MGJKN3ZodXdZd0JJVEtVeWdqZEhjNDdOanFsb3dSZGs0NW1zOEFmMGc0N1NQMFlQeUlIQ0QySTRzZG81ajRER3R3VmhXSm1tS2UwUDlGdG41QjJCaW1DaGZnTU1kTU1Nei1hZndyS2h6SXRfbkV3Wnp3NFlmMmp6RExkV3F1V2hqWTVheGFGcG9FYjhqQUlyVDh2Y2NOcDc4bjZ6WkxIaGRSekpPcEx6Q29GOXdTWXV3R2pVRU5FeFpZajhWTUlQcFh4MkdhMzhGOE15RWwwT1RPbGVfeVdLenJkUnFXYjFTSjVDSW5uR3ctc0Z2SWdPdHphbWZQVlhReVRzb2ZJSjdoRmxlLXVBNG5JNEl2dS1mSHRvRnVTdEg5aEVkSnplMVlBNC1BRzBrQm9RcmIzV0VYd3pHWWRGTG52MU9jRU1tSFJibDNzWVpGeHA4b1htQ0h3QllwbExpQzFaWEd2STlnWmNoRzRHWW5mdTRBTjBVVGEtX0FsVjVvc0FGSFB6dDNsaHlaYmRNY1JIRDJ2VVIxcF81dXBFQTRHeFFUT21pYzZMNGNGQkFFcjJHU1FoWjRnNXZTcnNYb0w5ZVFtRjhobFlYWmFCeV9hX2h1V3Eyb2Z5YkdKbFJNd0NtZnJJeXRHWW1oakhuYnNhOXd2RXctTGRxN0FHZktqdmU4TWc4RXVHXzlKZnJPRVlFdzVPM0RYWl92WG44Uk9xWVBZODkxUGFEbl9LenV4MDc3ZENDSEZBMmtwTXl1TGdQcEJlakJKdUhrQmNJVHBBNklwMmNBUXZyU1ZGV0RTMl95dEQ0VDViUG11TDhLUFZXYnZVXzhnWTVLQm1hMVV0MlJoS2tMT0tJSzlKOHBIWENFMzJzekoyMjFPTTZjc2VKTHZSOURxaFpVT3RYem5MS01EeGk1X0FQMHNNM1hYM0NzaEo2RjMwazBLZG5DeFdHeFRoUm9idG42WTg5c2lWb05QNGFiZG5vcWVXcVFaNXV3eEVnQzlRRDcyc0w0OV9iaFU3NC1GLXJlUEpWWDJ1OHZWVVFfLU5jcjFfMV9vdGUtUGJEX05vOUtjeU9hN3JXUVFFUzVETGl0NDdxR3hSV05JaWVQR2VaaWlXZ21OMGw1TzkySTZwckZwNWdwN3c4NnBYZXpMeUhMamVqTmFUYW1YZlFyUnFsREJNZnpXeklvQUdlak9TN21qNFoxRC1FOEliRjU4eG9DV19PUG03aEs2Rkg4OVdLamUwVDVwR2EtUExhTmxWUDBPampSdjB6WjE2emtnVzh3OGVKdzEwek9HamxaSUVzZjZaTnpyUjk2dVdMcGFQNVlzZmNTamZBdnlHVVVEQWVyQ0J0ekZ2MGZLd0ZScFlPOGVtRmNQN1EzYW9aQkhFODJwa2JCNnRzZ1JXWmlsa0tUQlR5RFNJRTJPcldRY05KbUN4SzA1T0VDckRrNmxSUHhZVW56QkNYa1BBQUhCVHdXa2VGdkc3QTJJZjJqUkFQUjV3TEVFTVZSeHpBQnYwcl9DRGxYU19mUFZPNUV2Q3pWVXJtdHZMXzJDUjFnY3RhaS1RQkNOZFlaQXIxX2EtX1JsbTA4ZGZMWEI5V2FmNGttd0taTlp4UUVKNFBKZDY4ZVN3bGc3V2FFVDdqdUZJc2RZSUJXNEZfWXhjanpuS3R1dWFDUl8zZm54RWhvSGhrcDBKMVN2czBZM3htTm1VREViTF9oVG5IZUhUVWFINEhFa3BLamxEVFJMZHBOUXZHTWpGdFlUZEpjaXJnV0dIYlVLd3VkTVFsVl9VczI2cEdCZFBIRVc5amhwUS1PbEF0OHlYbTRzT2tYVHd2azFwSDQ5aFN5Mm1HZVY0R3JlQUF4cXRtQ1VtNFR6dVZ4VzUyMi1CODN3S0R6Mjd3dmI4MUtmX2wtM2h4eHlIT1RnQjAtSHFWRERZTWlnTHdDdGNXSTY?oc=5\" target=\"_blank\">Tim Anderson, 2-time All-Star and former batting champ, retires</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Chicago</font>",
     "languages": "en"
+  },
+  {
+    "id": "7cddf142-2c46-4eb0-b9a3-84631f53ca95",
+    "title": "NBA Offseason: Every free agency deal, extension & trade for all 30 teams - NBA.com",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZNFhUUEFWOUM1REJwM0d6ZjMwNmZCc0xqYTBnMlU1SFpaWkpXdEo4bkIwNTNvS2F2TFFXa1RnNndqaFhweS00bkVRQWtlRFd2N1VaUUZBY3hLa1pHLWc?oc=5",
+    "published": "2026-10-19 02:14:26",
+    "source": "NBA.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZNFhUUEFWOUM1REJwM0d6ZjMwNmZCc0xqYTBnMlU1SFpaWkpXdEo4bkIwNTNvS2F2TFFXa1RnNndqaFhweS00bkVRQWtlRFd2N1VaUUZBY3hLa1pHLWc?oc=5\" target=\"_blank\">NBA Offseason: Every free agency deal, extension & trade for all 30 teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBA.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "2546c8d7-26d4-4317-8e2e-4edee49297ce",
+    "title": "All loose cattle caught after downtown KC semi crash, KCFD says - KCTV",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDV3cXJNeEMxOHZVS3Q2bXNLU2s4czlCT1lzWlNzbmhVZ1d3V1htM2pFZGd2cjVlbC03dmVwV2tOX29ybE8xMnB0Vm84U2JaUm9qOXdHSWJvdFRlenFDbzBSMlZ0NG9ScWd4LWdDanB3MWxNUXZFUHFrMjBmNTJ2WTluTWpFWGNpY2ZCbGhsVW5aWGlJR3IxeURTNG7SAbABQVVfeXFMTnhLQlRMQnRLcU1UdUQ2OHNnWHZYX2ZMM2E2YlJHRXctZlBuYXhHdXQzMW9zRnVsaGpub0tTajFKVVVrck1wY3F3TkZQUDI0WHl5QWMxR2thMUVBWkZscW5rT2pfb0ZhQkZEbEJYNUJYUFNlZWVxQmdDdzdpUkctVWN0THFVWDA2ZWhQaE9MTW5UeXplWFR0cFNtV3l0WDdwZzN4VThzMGNRVTVBeWZ3ekI?oc=5",
+    "published": "2026-10-19 03:46:00",
+    "source": "KCTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDV3cXJNeEMxOHZVS3Q2bXNLU2s4czlCT1lzWlNzbmhVZ1d3V1htM2pFZGd2cjVlbC03dmVwV2tOX29ybE8xMnB0Vm84U2JaUm9qOXdHSWJvdFRlenFDbzBSMlZ0NG9ScWd4LWdDanB3MWxNUXZFUHFrMjBmNTJ2WTluTWpFWGNpY2ZCbGhsVW5aWGlJR3IxeURTNG7SAbABQVVfeXFMTnhLQlRMQnRLcU1UdUQ2OHNnWHZYX2ZMM2E2YlJHRXctZlBuYXhHdXQzMW9zRnVsaGpub0tTajFKVVVrck1wY3F3TkZQUDI0WHl5QWMxR2thMUVBWkZscW5rT2pfb0ZhQkZEbEJYNUJYUFNlZWVxQmdDdzdpUkctVWN0THFVWDA2ZWhQaE9MTW5UeXplWFR0cFNtV3l0WDdwZzN4VThzMGNRVTVBeWZ3ekI?oc=5\" target=\"_blank\">All loose cattle caught after downtown KC semi crash, KCFD says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCTV</font>",
+    "languages": "en"
+  },
+  {
+    "id": "bdbf2df1-43df-4b5d-92c0-0b5d02c50719",
+    "title": "MBB Postgame | Butler Press Conference - Sycamore All-Access - Powered by SIDEARM Showcase - Indiana State University Athletics",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uLTFyX0tqMVZ1QnNCWGFrUlMxU2hTRGZuZzB1d2E4N0lfVEhsbGdmRUIzTmV6RDV2Y1pwbXUzbTNQOWtENjBNLWVIb3R6eTJFSWdJNGxzTlRRamxQUlo1V2dvWkwtZVE?oc=5",
+    "published": "2026-10-19 02:05:57",
+    "source": "Indiana State University Athletics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uLTFyX0tqMVZ1QnNCWGFrUlMxU2hTRGZuZzB1d2E4N0lfVEhsbGdmRUIzTmV6RDV2Y1pwbXUzbTNQOWtENjBNLWVIb3R6eTJFSWdJNGxzTlRRamxQUlo1V2dvWkwtZVE?oc=5\" target=\"_blank\">MBB Postgame | Butler Press Conference - Sycamore All-Access - Powered by SIDEARM Showcase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiana State University Athletics</font>",
+    "languages": "en"
+  },
+  {
+    "id": "50223fc9-2c7b-4ef0-8e32-8a650c99625b",
+    "title": "Affordable, accessible healthcare — state candidates all want it - Cascadia Daily News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmxHa1A0aFMyXzl0LXpLWTU5UmVJRUNkV19FdXNpVWk2c3pMeHZ4N3d6a1ZPNXV6aDV5bXhtTUlBRDhvcHZBRTB0RC1faHM5VEt1bjRUTW1KUENmbkpiRWZXZldmc3RZOFowb3lhUFJmRWV3bG1WV24yd3RrSHdWMmRmSGJ1V1VOT0d2U1lDWTNZd0xOTzhwODd4di0yZVlJSTk4cjFLNA?oc=5",
+    "published": "2026-10-19 04:10:36",
+    "source": "Cascadia Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObmxHa1A0aFMyXzl0LXpLWTU5UmVJRUNkV19FdXNpVWk2c3pMeHZ4N3d6a1ZPNXV6aDV5bXhtTUlBRDhvcHZBRTB0RC1faHM5VEt1bjRUTW1KUENmbkpiRWZXZldmc3RZOFowb3lhUFJmRWV3bG1WV24yd3RrSHdWMmRmSGJ1V1VOT0d2U1lDWTNZd0xOTzhwODd4di0yZVlJSTk4cjFLNA?oc=5\" target=\"_blank\">Affordable, accessible healthcare — state candidates all want it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cascadia Daily News</font>",
+    "languages": "en"
+  },
+  {
+    "id": "8ea64375-065b-4b00-8d29-a3738fdfee14",
+    "title": "Plan to add officers to all Metro Schools - WSMV",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QUXhqRzNjTmdqSFNyYUpLV2hQZzMzcnJEcGlqSTl2b19zVThaTk9PZU41cWtfUzBIclBiSXR1aFYyalVBeXFmcktKRW1pR0JyVUZVcUNvTDNKWEx1X0xUSERsNl9OWU42TG9ES0trdGhvSE9YSXMwbVFJYURTanM?oc=5",
+    "published": "2026-10-19 03:11:44",
+    "source": "WSMV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1QUXhqRzNjTmdqSFNyYUpLV2hQZzMzcnJEcGlqSTl2b19zVThaTk9PZU41cWtfUzBIclBiSXR1aFYyalVBeXFmcktKRW1pR0JyVUZVcUNvTDNKWEx1X0xUSERsNl9OWU42TG9ES0trdGhvSE9YSXMwbVFJYURTanM?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
+    "languages": "en"
+  },
+  {
+    "id": "4f6a5dfd-84fe-48c7-ab5d-45e535ca972f",
+    "title": "Aaron Rodgers ties Peyton Manning on all-time touchdown pass list - Milwaukee Journal Sentinel",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTS05Z2F6eEdkdHdheUpMWHlIX2hobkNOZGxIRi11Z1YyQjBvLW1qSGFxa0xUQ2hWV2xNRjZEMUJ4ZDdKUDZSdTlOZTZ0STRKOXBlclJpUE5HS3FLOHFmdjI0ZWNVQURJZUhWR0tXeFNqd3FCQ0huYXVheklBSWNJb25hNm12eXJieGRESDkweWUxUjU3blNvMjNjRTJ4N3l5dkpTenJXVjBreHZkTmhOUjdxT24wZHlxSEtsSEJFbktKQk5lUHlr?oc=5",
+    "published": "2026-10-19 02:48:00",
+    "source": "Milwaukee Journal Sentinel",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTS05Z2F6eEdkdHdheUpMWHlIX2hobkNOZGxIRi11Z1YyQjBvLW1qSGFxa0xUQ2hWV2xNRjZEMUJ4ZDdKUDZSdTlOZTZ0STRKOXBlclJpUE5HS3FLOHFmdjI0ZWNVQURJZUhWR0tXeFNqd3FCQ0huYXVheklBSWNJb25hNm12eXJieGRESDkweWUxUjU3blNvMjNjRTJ4N3l5dkpTenJXVjBreHZkTmhOUjdxT24wZHlxSEtsSEJFbktKQk5lUHlr?oc=5\" target=\"_blank\">Aaron Rodgers ties Peyton Manning on all-time touchdown pass list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
+    "languages": "en"
+  },
+  {
+    "id": "e993e7e4-5f6d-4a9a-be60-aeee06bc28a1",
+    "title": "The Mentality of Perimenopause: It’s All In Your Brain - Human Resources University of Michigan |",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2lUQW4yT0RNZ1JOcERjb05pTWVCVld1em1BcnhRM3dMaVdvYU1NdTh5OUNYNURhOE9LWVpmVk9BMnBxamJzYTlpclg3cC0ydlJxS2FqRDFLSGVRYkc5UEYwS3BpeWJmNGc1aEdKalE1QXU2LU9nTnFRY0xXQm9IOHRmbW9HaGROQmc?oc=5",
+    "published": "2026-10-19 03:12:55",
+    "source": "Human Resources University of Michigan |",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2lUQW4yT0RNZ1JOcERjb05pTWVCVld1em1BcnhRM3dMaVdvYU1NdTh5OUNYNURhOE9LWVpmVk9BMnBxamJzYTlpclg3cC0ydlJxS2FqRDFLSGVRYkc5UEYwS3BpeWJmNGc1aEdKalE1QXU2LU9nTnFRY0xXQm9IOHRmbW9HaGROQmc?oc=5\" target=\"_blank\">The Mentality of Perimenopause: It’s All In Your Brain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Human Resources University of Michigan |</font>",
+    "languages": "en"
+  },
+  {
+    "id": "80006867-2f36-4420-892d-cdf57a3a13f1",
+    "title": "Wolf Pack All Access: Football falls at NDSU, basketball tips off season against Utah - Nevada Sports Net",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXgyM1h0d1RCX0R5WHBMTDNuempmUDZaQ1NXdkZHa1lDeTVMQUROd014b0V0bzd4dE9kdUhrX2ZDRDRMdHJCSnVXZkhrVmRCS2k1SlFhMXRhelhHaVZ0NXdLc2E3Y3EzeVVwZDZ5aFlqOW4xdUpONEp2cERITDFQazNtbnRESHViUlZZSlRzaDRzRWFoUDZheEdaaXRveGtCVFFnWVZyVzFHWFo5bXJ0ckdUS1BKTV9DQTlUZUcyQjJUMjk3NGt6NzBROXhvSEtqQWRv?oc=5",
+    "published": "2026-10-19 02:08:43",
+    "source": "Nevada Sports Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOXgyM1h0d1RCX0R5WHBMTDNuempmUDZaQ1NXdkZHa1lDeTVMQUROd014b0V0bzd4dE9kdUhrX2ZDRDRMdHJCSnVXZkhrVmRCS2k1SlFhMXRhelhHaVZ0NXdLc2E3Y3EzeVVwZDZ5aFlqOW4xdUpONEp2cERITDFQazNtbnRESHViUlZZSlRzaDRzRWFoUDZheEdaaXRveGtCVFFnWVZyVzFHWFo5bXJ0ckdUS1BKTV9DQTlUZUcyQjJUMjk3NGt6NzBROXhvSEtqQWRv?oc=5\" target=\"_blank\">Wolf Pack All Access: Football falls at NDSU, basketball tips off season against Utah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nevada Sports Net</font>",
+    "languages": "en"
+  },
+  {
+    "id": "ec96ae94-bac8-4375-9078-7af14bd4b999",
+    "title": "Plan to add officers to all Metro Schools - WCAX",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZHEtcHViTkc2U3FKWDNwOUQtYlB4aTE3aWYtd1NTSTlqdlZ0b2o3TU9ZMjlvUThlRGFyV0k4NlhtUVNhTm1rZ040V25lSThUQ0hIYjNTdHNLaDFkZlJncFFuZjUwdWRDMjRnNWN5Mk9NU1hOeUZ4N3F6WTVoOFE?oc=5",
+    "published": "2026-10-19 03:11:56",
+    "source": "WCAX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZHEtcHViTkc2U3FKWDNwOUQtYlB4aTE3aWYtd1NTSTlqdlZ0b2o3TU9ZMjlvUThlRGFyV0k4NlhtUVNhTm1rZ040V25lSThUQ0hIYjNTdHNLaDFkZlJncFFuZjUwdWRDMjRnNWN5Mk9NU1hOeUZ4N3F6WTVoOFE?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCAX</font>",
+    "languages": "en"
+  },
+  {
+    "id": "5ee5b201-17b3-4963-a89f-df020bada27e",
+    "title": "Northeast Ohio Weather: Dry all week - Cleveland 19 News",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGRPb0JlUmVZN1hXdVlEU1M4MDh4U3hxRzhUM3JaSk1JQ2tERXhlT0d3VDlqdTlac1FrME0xZ0NnVTZjUkdSQ1J4WllnZE9nV2pXQm5JNEZubGlVVkRxZGhpQUgtTnBHSHoxaTZlQTNleFBpekFLZHJ2Y0ZZWVlyRA?oc=5",
+    "published": "2026-10-19 05:06:00",
+    "source": "Cleveland 19 News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGRPb0JlUmVZN1hXdVlEU1M4MDh4U3hxRzhUM3JaSk1JQ2tERXhlT0d3VDlqdTlac1FrME0xZ0NnVTZjUkdSQ1J4WllnZE9nV2pXQm5JNEZubGlVVkRxZGhpQUgtTnBHSHoxaTZlQTNleFBpekFLZHJ2Y0ZZWVlyRA?oc=5\" target=\"_blank\">Northeast Ohio Weather: Dry all week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland 19 News</font>",
+    "languages": "en"
+  },
+  {
+    "id": "e6be6947-aaaf-4d78-ac33-43a0900d59ef",
+    "title": "I went to a glam gala in LA and cried all night — here’s why - New York Post",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEhDeUw0bmNPSFFUdDB0bEplSlRENDd3QVVDYWgtaFVKQjR6UUM3S1lSUnVhNS1fblpkTFBkLWt1WTB1X0VJYUZGZHkzS040ZjhweWllWFdueEJ1MFk1Xy1mZXVHS3g3UmlGcUEwMWdJa1dNb2dGNnM0TkU1NlFsX1ZNem9mNGtQM1dqTk81Ykc0S2pBeExmQy16MDE?oc=5",
+    "published": "2026-10-19 01:56:00",
+    "source": "New York Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEhDeUw0bmNPSFFUdDB0bEplSlRENDd3QVVDYWgtaFVKQjR6UUM3S1lSUnVhNS1fblpkTFBkLWt1WTB1X0VJYUZGZHkzS040ZjhweWllWFdueEJ1MFk1Xy1mZXVHS3g3UmlGcUEwMWdJa1dNb2dGNnM0TkU1NlFsX1ZNem9mNGtQM1dqTk81Ykc0S2pBeExmQy16MDE?oc=5\" target=\"_blank\">I went to a glam gala in LA and cried all night — here’s why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "languages": "en"
+  },
+  {
+    "id": "c86a01d0-f54e-456c-904e-eb245c46202e",
+    "title": "Two-hour delay set for all Pamlico County students and staff - WCTI",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ01zRHpPSUhCVENMcmV4U2Jua0g4UHdFMVZDM2xZNS1JLWlHMVp3TUhDdl9KZ0FQQlg0MzQ0dE1iMFNEQ3pUSjBKcENEUnRXd2R4a0hkTlRjQjFNSGVnTGNpaEh5bkhaR3daN0JhazBmUHI0dk9nd0NBa2tqWFlUNElia2IxVmtZSHZhOWdpdU5ESVB6?oc=5",
+    "published": "2026-10-19 05:41:12",
+    "source": "WCTI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ01zRHpPSUhCVENMcmV4U2Jua0g4UHdFMVZDM2xZNS1JLWlHMVp3TUhDdl9KZ0FQQlg0MzQ0dE1iMFNEQ3pUSjBKcENEUnRXd2R4a0hkTlRjQjFNSGVnTGNpaEh5bkhaR3daN0JhazBmUHI0dk9nd0NBa2tqWFlUNElia2IxVmtZSHZhOWdpdU5ESVB6?oc=5\" target=\"_blank\">Two-hour delay set for all Pamlico County students and staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTI</font>",
+    "languages": "en"
+  },
+  {
+    "id": "11b48a17-9d14-48a9-9252-c4b0cc96b63c",
+    "title": "Mass in Commemoration of All the Faithful Departed (All Souls’ Day) - Catholic Diocese of Arlington",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSkR6OWVGSWVSMEdEWHowSE5nT1MyWkpMR1piUlkwakRtUllzS1Q4MlNMNW9rckkwNEI2WE1BZGwta1IzREpQVHZGeVI5TEV3OEN4czZtS2N2VzdWZVdHU0Z2WE1CNm12ZUE?oc=5",
+    "published": "2026-10-18 22:54:08",
+    "source": "Catholic Diocese of Arlington",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSkR6OWVGSWVSMEdEWHowSE5nT1MyWkpMR1piUlkwakRtUllzS1Q4MlNMNW9rckkwNEI2WE1BZGwta1IzREpQVHZGeVI5TEV3OEN4czZtS2N2VzdWZVdHU0Z2WE1CNm12ZUE?oc=5\" target=\"_blank\">Mass in Commemoration of All the Faithful Departed (All Souls’ Day)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Catholic Diocese of Arlington</font>",
+    "languages": "en"
+  },
+  {
+    "id": "b673ac9e-1432-40a1-910c-baea81b0f645",
+    "title": "Gen Z doesn’t have a feedback problem. We all do - Fast Company",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ19BWFp5b2V4UG9ETzYzeVdDZ0phb1lRVUFnMnJSVjlwUXJydVpVNEZFbHVYd2NWMmJhODRVeTg1UlRlNE1vc3EzVXZfa3JiYXN5aG44NlQ4TjE1UnRGci1VZXhPb3NpSncxdDVoTW41cXJwb212STNmS0NZc2lZYXB2X3JucTZuaW8w?oc=5",
+    "published": "2026-10-19 05:08:50",
+    "source": "Fast Company",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ19BWFp5b2V4UG9ETzYzeVdDZ0phb1lRVUFnMnJSVjlwUXJydVpVNEZFbHVYd2NWMmJhODRVeTg1UlRlNE1vc3EzVXZfa3JiYXN5aG44NlQ4TjE1UnRGci1VZXhPb3NpSncxdDVoTW41cXJwb212STNmS0NZc2lZYXB2X3JucTZuaW8w?oc=5\" target=\"_blank\">Gen Z doesn’t have a feedback problem. We all do</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+    "languages": "en"
+  },
+  {
+    "id": "9d21e70b-c54d-43c3-bd4e-741fc6364928",
+    "title": "Heroes, zeros from Giants’ loss to Saints: Tyler Shough does it all - New York Post",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONjRjYUhILV9wNkhRakhFSnBIR3BBWXFiMjIycU13b0hnRXpZQ3Jsb2NPMXZzbTBzbWRmTXFjMjhwWDFzY0JZc0VUZ2hJQ0syc21xaEJKeDBva0pjenBwVUhKX3ZXVlhGT1VqQ2VwcWlLRklJUjY4YkxPaUJMUllhX1dhejNWRnFzRUJDXzc5ZmtIVmR4YXpVSFVjRFFyWTNKUVFGUw?oc=5",
+    "published": "2026-10-19 02:40:00",
+    "source": "New York Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONjRjYUhILV9wNkhRakhFSnBIR3BBWXFiMjIycU13b0hnRXpZQ3Jsb2NPMXZzbTBzbWRmTXFjMjhwWDFzY0JZc0VUZ2hJQ0syc21xaEJKeDBva0pjenBwVUhKX3ZXVlhGT1VqQ2VwcWlLRklJUjY4YkxPaUJMUllhX1dhejNWRnFzRUJDXzc5ZmtIVmR4YXpVSFVjRFFyWTNKUVFGUw?oc=5\" target=\"_blank\">Heroes, zeros from Giants’ loss to Saints: Tyler Shough does it all</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "languages": "en"
+  },
+  {
+    "id": "4d5a956d-4bdd-45e7-916f-49cdf6e294f1",
+    "title": "First Alert: Frost Advisory Monday morning, sunny skies all week - WDTV 5",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkRKRUFRTVN3dVFpX0d6aDljYTg5UmRjN2dhVEpTQ1RlcGhBeU1RLTdPNTNRbVVYTWJ2VFAxaTNhNjduaG1UUE5ibHVZMjFZcDNQVFlPdndtN0hSODM5NXc1dW5kME5sUW1ITUJBaDlwQ0pHOG1KMnVKS19pWTduazBjMDBVYkVoV2pNRi1zbHFaWnhSWk9NZ0tjVjFiYzZmanhr?oc=5",
+    "published": "2026-10-19 04:08:00",
+    "source": "WDTV 5",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkRKRUFRTVN3dVFpX0d6aDljYTg5UmRjN2dhVEpTQ1RlcGhBeU1RLTdPNTNRbVVYTWJ2VFAxaTNhNjduaG1UUE5ibHVZMjFZcDNQVFlPdndtN0hSODM5NXc1dW5kME5sUW1ITUJBaDlwQ0pHOG1KMnVKS19pWTduazBjMDBVYkVoV2pNRi1zbHFaWnhSWk9NZ0tjVjFiYzZmanhr?oc=5\" target=\"_blank\">First Alert: Frost Advisory Monday morning, sunny skies all week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDTV 5</font>",
+    "languages": "en"
+  },
+  {
+    "id": "1df70543-81ed-475e-b216-ee878b3ebd7f",
+    "title": "HRBT eastbound lanes reopen early; all tunnel repaving finished - 13newsnow.com",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMFNPYmtMYjlPbERCUWV3UnkybjFrWjlZNTBZWmdWWTRxc0NZRDhMOUg4V2hab1UyRWJ0ck1INHhNdkFZa2NNYjNSVFV6aUJ2ZzdsSG5MM0JscGVmMU5COXgtLWhEcGFXejRfb2tVdVJURW9FaVdlak1WR2t6UXJFN1VmTHhHeEhySXN1X0ZDM19ya2MySzV2Q0w2aUVscFB5bzJpdnhocFM2WndsdkFTa2psRUNxSlJ5cjAyZl9GQTZNSEIwUTdGWnJCWmpITXpKQXYzTG90eEJxYnZxbFExWGE1ZU55cFZqbDlyYVAyVHlnbHZvb2c?oc=5",
+    "published": "2026-10-19 02:04:00",
+    "source": "13newsnow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMFNPYmtMYjlPbERCUWV3UnkybjFrWjlZNTBZWmdWWTRxc0NZRDhMOUg4V2hab1UyRWJ0ck1INHhNdkFZa2NNYjNSVFV6aUJ2ZzdsSG5MM0JscGVmMU5COXgtLWhEcGFXejRfb2tVdVJURW9FaVdlak1WR2t6UXJFN1VmTHhHeEhySXN1X0ZDM19ya2MySzV2Q0w2aUVscFB5bzJpdnhocFM2WndsdkFTa2psRUNxSlJ5cjAyZl9GQTZNSEIwUTdGWnJCWmpITXpKQXYzTG90eEJxYnZxbFExWGE1ZU55cFZqbDlyYVAyVHlnbHZvb2c?oc=5\" target=\"_blank\">HRBT eastbound lanes reopen early; all tunnel repaving finished</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13newsnow.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "85ada56e-d259-4435-bcc5-faaae401c7c8",
+    "title": "All loose cattle caught after downtown KC semi crash, KCFD says - KCTV",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW1kcVNiS0E0Q1FvVEFTdy1zaEFZeU9YRE9Ec1l1NkZWV0FISzBEeGxrS0JQOU9XVmlLLWxWQk9uR1JZQ0o3dUdrMUlXaThzOFVwMms4c0FDNk9yUzhpTE1ZY0VMdlZldkpiYm5FWjJUb2owNFdLR2FWZXFNOUs4NlN5eE9tMXo3Q0tDOFJlT05oQ1JMR0FWeFNpR3BzelktcHlPXw?oc=5",
+    "published": "2026-10-19 03:53:00",
+    "source": "KCTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW1kcVNiS0E0Q1FvVEFTdy1zaEFZeU9YRE9Ec1l1NkZWV0FISzBEeGxrS0JQOU9XVmlLLWxWQk9uR1JZQ0o3dUdrMUlXaThzOFVwMms4c0FDNk9yUzhpTE1ZY0VMdlZldkpiYm5FWjJUb2owNFdLR2FWZXFNOUs4NlN5eE9tMXo3Q0tDOFJlT05oQ1JMR0FWeFNpR3BzelktcHlPXw?oc=5\" target=\"_blank\">All loose cattle caught after downtown KC semi crash, KCFD says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCTV</font>",
+    "languages": "en"
+  },
+  {
+    "id": "9a65751e-9a69-41e4-a6bb-7a17ca77ee3d",
+    "title": "Play of the Day: Jalen Coker proves, once again, he can do it all - Carolina Panthers",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRUJvMzNRdElUMmVjbUlQOGJ5aXpWS0lsRFlKeGViSkctZ09jWDh5NlE2NEdheDZYSTREOE1LSGVWMldnOGw2MmYyOEUtUXdSc0pPTl90N0gweWNKS18yY2I0MUtXRXJOY0lMcjVpSmRTRXFyR2RUX2ZmZUVYYkJHdmRCU1dWNFFMTVZ4OWFiWThSaTRDNlVmR25XRkpWdURXbHdr?oc=5",
+    "published": "2026-10-19 01:08:45",
+    "source": "Carolina Panthers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPRUJvMzNRdElUMmVjbUlQOGJ5aXpWS0lsRFlKeGViSkctZ09jWDh5NlE2NEdheDZYSTREOE1LSGVWMldnOGw2MmYyOEUtUXdSc0pPTl90N0gweWNKS18yY2I0MUtXRXJOY0lMcjVpSmRTRXFyR2RUX2ZmZUVYYkJHdmRCU1dWNFFMTVZ4OWFiWThSaTRDNlVmR25XRkpWdURXbHdr?oc=5\" target=\"_blank\">Play of the Day: Jalen Coker proves, once again, he can do it all</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carolina Panthers</font>",
+    "languages": "en"
+  },
+  {
+    "id": "b191006f-d908-4424-8f06-a70c8c538e60",
+    "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games - FOX Sports",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVJIbnBpQnZTTEJxSGFDajRCMWE1dWZtcHpHY2pHdzFtNFJ5dFdCNWtMcDZMR2F6Yk9kOWYtU05MM3MxWlRxN3ljeUJMNklWcDFOQUszY0VGQUZIWDdmS0pDTFdjaXhHN1RXNnU5bGliS28wdlFtV2N5azVrWEE1eHNXdnhoS2NJQ1FOaHBEM0d5RVBobmVBV9IBmAFBVV95cUxONHN6aG0zdG0zR2pWUEF0SERXMTlpTjlVcmtvNW9kU3N5amdNVm9yRVlrSVliLWNaWTAtTzdnRWVVZTJfcXRZVEhBVGJiOXRDdHdONW9nQlVzNGc0N0xCOGF6Vl9DaWZCT0wxRzVWa3JnNklhUW1BQXJ1YmdKX0FLR0lPN2JTTGhvWW5CdkxfU1FFOXlySUtLdw?oc=5",
+    "published": "2026-10-19 04:31:13",
+    "source": "FOX Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVJIbnBpQnZTTEJxSGFDajRCMWE1dWZtcHpHY2pHdzFtNFJ5dFdCNWtMcDZMR2F6Yk9kOWYtU05MM3MxWlRxN3ljeUJMNklWcDFOQUszY0VGQUZIWDdmS0pDTFdjaXhHN1RXNnU5bGliS28wdlFtV2N5azVrWEE1eHNXdnhoS2NJQ1FOaHBEM0d5RVBobmVBV9IBmAFBVV95cUxONHN6aG0zdG0zR2pWUEF0SERXMTlpTjlVcmtvNW9kU3N5amdNVm9yRVlrSVliLWNaWTAtTzdnRWVVZTJfcXRZVEhBVGJiOXRDdHdONW9nQlVzNGc0N0xCOGF6Vl9DaWZCT0wxRzVWa3JnNklhUW1BQXJ1YmdKX0FLR0lPN2JTTGhvWW5CdkxfU1FFOXlySUtLdw?oc=5\" target=\"_blank\">2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "3ffe9175-83a1-4d0d-ac08-26dd9f377ce6",
+    "title": "All the Runway Looks From the 2026 Victoria’s Secret Fashion Show - Yahoo",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWszZ3RhMHV3WmM4U1JkYnY0SWJtTW1kdGVyYzIxRzNyY1RUdjBfSndYckpucHpza2puS0NScWszQ2pPUFl5bkpKVC13QngwZTZYQjVCTEYzd3dQNlFQTDBRbWtKWnZfZlBNUkJoMTc4TEd3U3lVMW8tcWNtLS1fZmFYQmdGb1p6eENwRklFQjhFbUlZTG45M0pXdThzNVFwUl9FRVhn?oc=5",
+    "published": "2026-10-18 23:44:38",
+    "source": "Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWszZ3RhMHV3WmM4U1JkYnY0SWJtTW1kdGVyYzIxRzNyY1RUdjBfSndYckpucHpza2puS0NScWszQ2pPUFl5bkpKVC13QngwZTZYQjVCTEYzd3dQNlFQTDBRbWtKWnZfZlBNUkJoMTc4TEd3U3lVMW8tcWNtLS1fZmFYQmdGb1p6eENwRklFQjhFbUlZTG45M0pXdThzNVFwUl9FRVhn?oc=5\" target=\"_blank\">All the Runway Looks From the 2026 Victoria’s Secret Fashion Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "languages": "en"
+  },
+  {
+    "id": "c7a9c327-4c95-4b4b-b167-2952c76171fe",
+    "title": "Rays' ruthless efficiency powering postseason run -- and perhaps AL pennant - MLB.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHlLanVGdjBTa3FFanJBY0hCMF9yUmkwdmdiTjJfYW5YdGZ0bHdORjItbjdybzNLYXpPRVk1R2JRaWRHTnVZaG1BVjZRYVpZQ2lpdERUdVpzZDZTUW9pTkdmUGVwdWowMDBrOWZqT2dvNWlFWmxYVkZNa2l5dXR5Yy1ZeWtMUkFrbTFMUg?oc=5",
+    "published": "2026-10-19 02:23:16",
+    "source": "MLB.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHlLanVGdjBTa3FFanJBY0hCMF9yUmkwdmdiTjJfYW5YdGZ0bHdORjItbjdybzNLYXpPRVk1R2JRaWRHTnVZaG1BVjZRYVpZQ2lpdERUdVpzZDZTUW9pTkdmUGVwdWowMDBrOWZqT2dvNWlFWmxYVkZNa2l5dXR5Yy1ZeWtMUkFrbTFMUg?oc=5\" target=\"_blank\">Rays' ruthless efficiency powering postseason run -- and perhaps AL pennant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLB.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "e343c179-66e0-4eff-bad9-ea193c6441db",
+    "title": "Dallas Cowboys Lose All-Pro KaVontae Turpin on Opening Play vs Packers - Sports Illustrated",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWJFeDc5aHRkU3ZEX3JVc3pxeVBYMDk2RF84YmVSTHVFZzdDXzg1blNBd1hlMEtMLTF2czNXalc3ZGxMNEVHcVBhelZxakszZGUyTEltb0VodlNrTWp4cWszTXlVTTFROFNWYWx5eHA2WERzbG1BbDdTa0tMdGxtMDRmaERzMWR2VlAzRDRBV1A5REFpa25NenZHNEJUUk9JQ2c?oc=5",
+    "published": "2026-10-19 02:15:49",
+    "source": "Sports Illustrated",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWJFeDc5aHRkU3ZEX3JVc3pxeVBYMDk2RF84YmVSTHVFZzdDXzg1blNBd1hlMEtMLTF2czNXalc3ZGxMNEVHcVBhelZxakszZGUyTEltb0VodlNrTWp4cWszTXlVTTFROFNWYWx5eHA2WERzbG1BbDdTa0tMdGxtMDRmaERzMWR2VlAzRDRBV1A5REFpa25NenZHNEJUUk9JQ2c?oc=5\" target=\"_blank\">Dallas Cowboys Lose All-Pro KaVontae Turpin on Opening Play vs Packers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sports Illustrated</font>",
+    "languages": "en"
+  },
+  {
+    "id": "c01844e7-d9cf-46b1-9578-bbfae9dafb06",
+    "title": "COLUMN: Indiana men's basketball is loaded with scorers. All it takes is one - Indiana Daily Student",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1ZPUlZYVm55cGlJeHhVTlJ3SkdYU3VmV2t1TGlZNWVoTEhiNldCTWMyR3VaTVlKbXFvcVNvblRWY3MtbENCWTVZTFE1ZGZXNml3NGppRzkxandEajNiMXFOcUVNY2tMT3oyd08wa1JRR1JRREx0ZjFSTzBaWTRjM28xMDhhUDkxUmZxdV9saEdJTllFVjhIRFNPbTFJWkZRTzRB?oc=5",
+    "published": "2026-10-19 03:06:00",
+    "source": "Indiana Daily Student",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1ZPUlZYVm55cGlJeHhVTlJ3SkdYU3VmV2t1TGlZNWVoTEhiNldCTWMyR3VaTVlKbXFvcVNvblRWY3MtbENCWTVZTFE1ZGZXNml3NGppRzkxandEajNiMXFOcUVNY2tMT3oyd08wa1JRR1JRREx0ZjFSTzBaWTRjM28xMDhhUDkxUmZxdV9saEdJTllFVjhIRFNPbTFJWkZRTzRB?oc=5\" target=\"_blank\">COLUMN: Indiana men's basketball is loaded with scorers. All it takes is one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indiana Daily Student</font>",
+    "languages": "en"
+  },
+  {
+    "id": "65034db0-15e3-4124-851f-94eacdcc9e10",
+    "title": "SPORTS SHORTS: Thatcher 11th in Bobcats’ All-Dive Invite - Times Republican",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTngtQ2poVHpEa0M3S25JeE1JRGtVMmRNQW9GaUswYk94MWoxclFieGVnVE9CUXNjZUtrWHVibW16WHkxdVhmbHdyMnYwaFFkSVh4d2gzZkxMajNOY3ByYUlsQmpDckI4MHRzNTI1dHVyNDFBVFZFTURia3FhZGY0T2NLUlpXVmVfZjFsY3pZVHIxVVNjVWNSOHcybV9jZmNLT2JsbElHbkdUc1pPTGNLLWI2dnpZQQ?oc=5",
+    "published": "2026-10-19 05:24:21",
+    "source": "Times Republican",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPTngtQ2poVHpEa0M3S25JeE1JRGtVMmRNQW9GaUswYk94MWoxclFieGVnVE9CUXNjZUtrWHVibW16WHkxdVhmbHdyMnYwaFFkSVh4d2gzZkxMajNOY3ByYUlsQmpDckI4MHRzNTI1dHVyNDFBVFZFTURia3FhZGY0T2NLUlpXVmVfZjFsY3pZVHIxVVNjVWNSOHcybV9jZmNLT2JsbElHbkdUc1pPTGNLLWI2dnpZQQ?oc=5\" target=\"_blank\">SPORTS SHORTS: Thatcher 11th in Bobcats’ All-Dive Invite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Republican</font>",
+    "languages": "en"
+  },
+  {
+    "id": "aac4630c-04a0-4814-865a-30042acea5b2",
+    "title": "Bear Bachmeier's all-around performance for BYU shakes up the Heisman Watch - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2xETGhLQVIwVDdkbUNZc1VVZEdOeTY5aEE4VkpvQWtkaEZWcXJxYWFrbWNTN01keUJ6MjF3djdGMWlhSjA3WVBRU1dlOUtuN3lQd1FfMi1LOGhlelcwVXppbjVNYWtYX1AyN29vdVA2NUJQcDVXTDZBamcxWDgxRXc5ZmJSQW85Nk44MnE4R2w?oc=5",
+    "published": "2026-10-19 03:52:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2xETGhLQVIwVDdkbUNZc1VVZEdOeTY5aEE4VkpvQWtkaEZWcXJxYWFrbWNTN01keUJ6MjF3djdGMWlhSjA3WVBRU1dlOUtuN3lQd1FfMi1LOGhlelcwVXppbjVNYWtYX1AyN29vdVA2NUJQcDVXTDZBamcxWDgxRXc5ZmJSQW85Nk44MnE4R2w?oc=5\" target=\"_blank\">Bear Bachmeier's all-around performance for BYU shakes up the Heisman Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "91e95b69-bfe9-4b1b-a97f-deece53d84f7",
+    "title": "Kavontae Turpin Injury Update: Cowboys All-Pro Goes Down Against Packers - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUmpBTWVfUVU3eVBlRTF6V2kyUEc5SlUwNW5aR1VxUlVoWlF6SWdxU2laWHBaZE1WZzNKaU9PNzN5VmN4Y2g4RkF4VXM2Y2x0YlhEQ3Q1SkxvTzlrYkpSODg4ZUFCbUtreDgwUGo3OHhuRi03MmlkWUNqbGQ1aG5rVk5HcjA4Y3l1U2tz?oc=5",
+    "published": "2026-10-19 03:34:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUmpBTWVfUVU3eVBlRTF6V2kyUEc5SlUwNW5aR1VxUlVoWlF6SWdxU2laWHBaZE1WZzNKaU9PNzN5VmN4Y2g4RkF4VXM2Y2x0YlhEQ3Q1SkxvTzlrYkpSODg4ZUFCbUtreDgwUGo3OHhuRi03MmlkWUNqbGQ1aG5rVk5HcjA4Y3l1U2tz?oc=5\" target=\"_blank\">Kavontae Turpin Injury Update: Cowboys All-Pro Goes Down Against Packers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "9433a109-1987-42b9-9849-db2902c38a57",
+    "title": "Fantasy Football: Texans going all-in on the pass game — and it's revealed a new flex option - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOGhpZ3JFNHVpTjZoR1JBZnk1UmVKdS1qdEhjWFVnNF9pem1VbktJQl9XSlRsMHpnZzdBNlJJYmMwSWQxV2FWT0JrS0VYY3lmUTNQRDUyX0w0a3AyLTFBTlJTa0xyUzVncVpVQUs0S3R6Qkl5aUNNX24xYU9YblR3MGpGUEpPb216WWtlbnIxdmxqVjNXNVhwLUswZm1GU3VVTHZsTVg4cEZKUm9WRThyYkIxOEJaUWN6Rm1nemVtM3FKNWNjVlViQm1FdGJXb1d1c2dZeVQtbXVFV0FEWnc?oc=5",
+    "published": "2026-10-19 04:06:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOGhpZ3JFNHVpTjZoR1JBZnk1UmVKdS1qdEhjWFVnNF9pem1VbktJQl9XSlRsMHpnZzdBNlJJYmMwSWQxV2FWT0JrS0VYY3lmUTNQRDUyX0w0a3AyLTFBTlJTa0xyUzVncVpVQUs0S3R6Qkl5aUNNX24xYU9YblR3MGpGUEpPb216WWtlbnIxdmxqVjNXNVhwLUswZm1GU3VVTHZsTVg4cEZKUm9WRThyYkIxOEJaUWN6Rm1nemVtM3FKNWNjVlViQm1FdGJXb1d1c2dZeVQtbXVFV0FEWnc?oc=5\" target=\"_blank\">Fantasy Football: Texans going all-in on the pass game — and it's revealed a new flex option</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "342c77bd-3717-40ad-b24e-9e29af20f720",
+    "title": "Travis Hunter's big day makes Brian Thomas Jr. trade all the more likely - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzMxQW1MVlVnTHdTMFJJTjM0aW1BYUdfc3hvdmtTVThGRXdYNlI0dXltLUFCS1lFdDdzU0dDOUxlZE5VTlF3SDdTN3pKX2t1MmQ5cjA1RFBXVmRDSUhwY0FmV2NHdkppSnRtSU54SDMxdmZtRnJ3c0xGdGttaER0Tno1Ynh4c18xUjZqRkRqMEh2aXNOT2NkNjI0cHF3SUVmSGRhUmQtNkdsamxvRTZYem05R2hCSk0?oc=5",
+    "published": "2026-10-19 05:05:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObzMxQW1MVlVnTHdTMFJJTjM0aW1BYUdfc3hvdmtTVThGRXdYNlI0dXltLUFCS1lFdDdzU0dDOUxlZE5VTlF3SDdTN3pKX2t1MmQ5cjA1RFBXVmRDSUhwY0FmV2NHdkppSnRtSU54SDMxdmZtRnJ3c0xGdGttaER0Tno1Ynh4c18xUjZqRkRqMEh2aXNOT2NkNjI0cHF3SUVmSGRhUmQtNkdsamxvRTZYem05R2hCSk0?oc=5\" target=\"_blank\">Travis Hunter's big day makes Brian Thomas Jr. trade all the more likely</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "06c34484-ef59-4237-b841-479dde31aa8b",
+    "title": "Vince Staples Releases “Tulsa, OK” On All Streaming Platforms - live in limbo",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzNCRmd2T2FuNDNjd2RFRzU5UFZkTzdTbUE2bWMyV2pOOWRRM01wUVVVMDZ5RUV2WVZQOU1WS1I0UGhLZE8yVlV0cWRrd0oyM1l6dFVxRVZHdlFVQWN0Sk5JMC1SRnY5SmJRZmtKTjF3VkQwdFhqUHFfUHFTWGo1MzgyOTZnaUhhd2swUjNlbXA4SkZIVjZGcFRDVzI4T21rdVlmTVE3bHhPQQ?oc=5",
+    "published": "2026-10-19 04:20:44",
+    "source": "live in limbo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzNCRmd2T2FuNDNjd2RFRzU5UFZkTzdTbUE2bWMyV2pOOWRRM01wUVVVMDZ5RUV2WVZQOU1WS1I0UGhLZE8yVlV0cWRrd0oyM1l6dFVxRVZHdlFVQWN0Sk5JMC1SRnY5SmJRZmtKTjF3VkQwdFhqUHFfUHFTWGo1MzgyOTZnaUhhd2swUjNlbXA4SkZIVjZGcFRDVzI4T21rdVlmTVE3bHhPQQ?oc=5\" target=\"_blank\">Vince Staples Releases “Tulsa, OK” On All Streaming Platforms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">live in limbo</font>",
+    "languages": "en"
+  },
+  {
+    "id": "b02abdbe-8347-4a55-91d8-3a8e5beeb312",
+    "title": "All Saints Parish Christmas Holiday Fair Set for Nov. 14 - WHAV",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlFkYUpMZ2lhVHZweHVDTmVQc2FHby1YNWRTSzBiQlFNWXgtQVpIN2ZKVWN0X3NHQlNhOEhKbElMV1dhX09KdTJYcGxVdWlmWDRxc3hTSElpanpodFQwZnRsUFZiUVAwaEhoVGxmcjRwYTMyWmNCaDhrX0JwMGRzR0p6ekl5NlNmVmtiQw?oc=5",
+    "published": "2026-10-19 03:00:28",
+    "source": "WHAV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlFkYUpMZ2lhVHZweHVDTmVQc2FHby1YNWRTSzBiQlFNWXgtQVpIN2ZKVWN0X3NHQlNhOEhKbElMV1dhX09KdTJYcGxVdWlmWDRxc3hTSElpanpodFQwZnRsUFZiUVAwaEhoVGxmcjRwYTMyWmNCaDhrX0JwMGRzR0p6ekl5NlNmVmtiQw?oc=5\" target=\"_blank\">All Saints Parish Christmas Holiday Fair Set for Nov. 14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAV</font>",
+    "languages": "en"
+  },
+  {
+    "id": "395d02ec-2918-4bae-8d3d-dd968902b57e",
+    "title": "GAME NIGHT: Wild all BUSINESS against Blue Jackets, Calgary SURPRISES Carolina, Fun with Analytics - KVUE",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWkk0ZWFnancwZXpjLW9NNXowQWprWUVaM1V6Q0syTGZNMUltQjQwcVFQVnhZcHdob2R3ZGdUMDVDUnBOS2VIblNOaXROVVNTUDhiWGF5NmZZdTFoRHVrTHZCN1Y4OTVNRjlfeWlLazF5U2UzZ3g3TG9DZ3RJR20zZ3BrZTN6U3BTSzlNZ0NhdVU3eHZQMmdRaWdHY2thQVNxT1hsUlRTc2FMWU42QWc0T0p3RHRzNzdqUF9wZWlWNDNCa3ZaelhvcnVsbkNIeWN0NUl1aG5PRlpjSlduSzczME1tQUxON1dmcUNNUmtWaGhuY0k0RmVLa0F6dG1nYTA?oc=5",
+    "published": "2026-10-19 04:17:00",
+    "source": "KVUE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWkk0ZWFnancwZXpjLW9NNXowQWprWUVaM1V6Q0syTGZNMUltQjQwcVFQVnhZcHdob2R3ZGdUMDVDUnBOS2VIblNOaXROVVNTUDhiWGF5NmZZdTFoRHVrTHZCN1Y4OTVNRjlfeWlLazF5U2UzZ3g3TG9DZ3RJR20zZ3BrZTN6U3BTSzlNZ0NhdVU3eHZQMmdRaWdHY2thQVNxT1hsUlRTc2FMWU42QWc0T0p3RHRzNzdqUF9wZWlWNDNCa3ZaelhvcnVsbkNIeWN0NUl1aG5PRlpjSlduSzczME1tQUxON1dmcUNNUmtWaGhuY0k0RmVLa0F6dG1nYTA?oc=5\" target=\"_blank\">GAME NIGHT: Wild all BUSINESS against Blue Jackets, Calgary SURPRISES Carolina, Fun with Analytics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
+    "languages": "en"
+  },
+  {
+    "id": "8374a1de-12a1-49c5-b31d-a9e4914aa7c4",
+    "title": "Plan to add officers to all Metro Schools - FOX Carolina News",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWNOTmtXSGpuRUdfVC0zMm5zZFkzUy11SFIyd3BjcEY3emZOQWJLak9WY3cxYS1kcDZQRVJJN1o5bG51VURUQWFlUFpSMC1URUo0ckVvNkROR3RQUUtKZWZpS1h5NWJPMFA4enlXZk9PTUZZX0NWZDRZSUtURllFZXoxbGhHRjNF?oc=5",
+    "published": "2026-10-19 00:12:04",
+    "source": "FOX Carolina News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWNOTmtXSGpuRUdfVC0zMm5zZFkzUy11SFIyd3BjcEY3emZOQWJLak9WY3cxYS1kcDZQRVJJN1o5bG51VURUQWFlUFpSMC1URUo0ckVvNkROR3RQUUtKZWZpS1h5NWJPMFA4enlXZk9PTUZZX0NWZDRZSUtURllFZXoxbGhHRjNF?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Carolina News</font>",
+    "languages": "en"
+  },
+  {
+    "id": "698ddb32-3915-4183-a48f-a3e564ac991b",
+    "title": "'All INdiana Politics': Secretary of State candidates face off on voting reform and business portals - WRTV",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbDh5dUh2by1mNVFJS05xSXkybkhNQmQxdkZQNlhVZUM3emx3SXdmVXFhMlJQcUJHTGdBWE1vQVVNRWc4cm5YU3RkQlN6RlpPOVdZZjVsM256cW1Cb1dZTkJQWFhvcW44S2VuTDlUNEVvTEdhUEVUWV9abFZjQUp2NFNKcFd5dUpUUHhUNnphZGRtRnA3ckl1dzhfVlRWZkpyb2drYTBtcHNxMGp1OTdJNnlwUnZCT3h6RFNOWFZBZUlyZU45blE0anptTVRfVV9mSkFZbk5iT3JWQjQ?oc=5",
+    "published": "2026-10-19 04:13:42",
+    "source": "WRTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbDh5dUh2by1mNVFJS05xSXkybkhNQmQxdkZQNlhVZUM3emx3SXdmVXFhMlJQcUJHTGdBWE1vQVVNRWc4cm5YU3RkQlN6RlpPOVdZZjVsM256cW1Cb1dZTkJQWFhvcW44S2VuTDlUNEVvTEdhUEVUWV9abFZjQUp2NFNKcFd5dUpUUHhUNnphZGRtRnA3ckl1dzhfVlRWZkpyb2drYTBtcHNxMGp1OTdJNnlwUnZCT3h6RFNOWFZBZUlyZU45blE0anptTVRfVV9mSkFZbk5iT3JWQjQ?oc=5\" target=\"_blank\">'All INdiana Politics': Secretary of State candidates face off on voting reform and business portals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRTV</font>",
+    "languages": "en"
+  },
+  {
+    "id": "b2a7ef54-a7b9-4367-b160-8412a6b3e8e6",
+    "title": "All Dawgs: LSU Volleyball drops its eighth straight series match to the Georgia Bulldogs - lsureveille.com",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeVpHMU1YUG5DRHFxbml2LUlib3oteW12Nkc0OWhQR0t0WVhJVHpkSGJBUWpVRGhYanBCUnlmMTRseGpYa016YmtqdlNoNXlNT0tEOU1UaGVMTUlQRkpYYWFPeTljMXF2?oc=5",
+    "published": "2026-10-19 04:37:09",
+    "source": "lsureveille.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkeVpHMU1YUG5DRHFxbml2LUlib3oteW12Nkc0OWhQR0t0WVhJVHpkSGJBUWpVRGhYanBCUnlmMTRseGpYa016YmtqdlNoNXlNT0tEOU1UaGVMTUlQRkpYYWFPeTljMXF2?oc=5\" target=\"_blank\">All Dawgs: LSU Volleyball drops its eighth straight series match to the Georgia Bulldogs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lsureveille.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "d0a14e44-a8dd-402c-bfcb-3ea2e38e6e1d",
+    "title": "Plan to add officers to all Metro Schools - WLBT",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Mcl9IM21KVFhfYktWZmh4QVlIOFFiY01mMXJscjlvT3NJeW8wbHEzV0pweVF4WmQ0cXM0eFlQSS1GdmlrMzRqSkotSllDSGxsVmZzM2ktZHZkemJwNmNkY0RkTVpLbFZVdFdGNmhsRTN6a29SaXhzNFpMV2lUejg?oc=5",
+    "published": "2026-10-19 00:15:04",
+    "source": "WLBT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5Mcl9IM21KVFhfYktWZmh4QVlIOFFiY01mMXJscjlvT3NJeW8wbHEzV0pweVF4WmQ0cXM0eFlQSS1GdmlrMzRqSkotSllDSGxsVmZzM2ktZHZkemJwNmNkY0RkTVpLbFZVdFdGNmhsRTN6a29SaXhzNFpMV2lUejg?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLBT</font>",
+    "languages": "en"
+  },
+  {
+    "id": "05bb475f-7d00-471f-9508-56b7ebd4e55d",
+    "title": "All the Moms Who Walked the Victoria’s Secret Fashion Show - Harper's BAZAAR",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSndCYzJ0aGhmNFpNYWtPS01IZUk5VHZkOGh5VnZiOEFyeEFCbHpybFgxUFh1aFpmX1lkdGtMRktLcTdWcm80czZDeWZnbkN0SmZ0ekhULWNsMTRYc2VMWVlObTliNWtHRXB3ZjJxUFAyQnVTc1NoNWxrYjFscEJ0TG9xbHIzVW9vZlFwRzNEN3FsWDFDdk1ZS2JNNmkyd1pGRFJ1cjdDX1Y4eU5QZUlma0JR?oc=5",
+    "published": "2026-10-19 01:07:00",
+    "source": "Harper's BAZAAR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSndCYzJ0aGhmNFpNYWtPS01IZUk5VHZkOGh5VnZiOEFyeEFCbHpybFgxUFh1aFpmX1lkdGtMRktLcTdWcm80czZDeWZnbkN0SmZ0ekhULWNsMTRYc2VMWVlObTliNWtHRXB3ZjJxUFAyQnVTc1NoNWxrYjFscEJ0TG9xbHIzVW9vZlFwRzNEN3FsWDFDdk1ZS2JNNmkyd1pGRFJ1cjdDX1Y4eU5QZUlma0JR?oc=5\" target=\"_blank\">All the Moms Who Walked the Victoria’s Secret Fashion Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harper's BAZAAR</font>",
+    "languages": "en"
+  },
+  {
+    "id": "a5f00fa8-389b-4fa8-b8f9-344a9b56fc50",
+    "title": "Cason Wallace, Thunder agree on reported extension - NBA.com",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04OTRCMTEtaEFjQ1pBb1l5R3hWaEt0VGd1ZmJXOXlVVGFtQ1drZXJfSnlrQ0JDeEVxdm5DUm1EZS1yRzE4U1UzQm5qSXF2bVBwSU91MkxxRW5tUjNxcVQyT21sa08xNzZGanhYc3UwcGdXLVRGdmFMRXB3TloxQQ?oc=5",
+    "published": "2026-10-19 03:44:47",
+    "source": "NBA.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE04OTRCMTEtaEFjQ1pBb1l5R3hWaEt0VGd1ZmJXOXlVVGFtQ1drZXJfSnlrQ0JDeEVxdm5DUm1EZS1yRzE4U1UzQm5qSXF2bVBwSU91MkxxRW5tUjNxcVQyT21sa08xNzZGanhYc3UwcGdXLVRGdmFMRXB3TloxQQ?oc=5\" target=\"_blank\">Cason Wallace, Thunder agree on reported extension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBA.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "ba8ca87a-728a-4f85-9ae9-dd5613b7765f",
+    "title": "Steelers' Aaron Rodgers throws two TDs to tie Peyton Manning on all-time list - ESPN Singapore",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1F4ZndjZDc3c2R6elRUSU5vTk9hR3pkUm5YODd5b1JTNTNCSG16Qng4aVlIakxtdWFhNS1TSnkxZzFyOGE5eHRSQVI0M1FDbks1Z1VLQXdHOEhGOHNuanpGUVNsRGw4MkUtNlhHX3Vlek5vU1JRYjJSY2hxZmZtMmxoWWdCY29zM0dOQWlqclZ1THlpNkdZQk5xT1pUcVU?oc=5",
+    "published": "2026-10-19 00:25:27",
+    "source": "ESPN Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1F4ZndjZDc3c2R6elRUSU5vTk9hR3pkUm5YODd5b1JTNTNCSG16Qng4aVlIakxtdWFhNS1TSnkxZzFyOGE5eHRSQVI0M1FDbks1Z1VLQXdHOEhGOHNuanpGUVNsRGw4MkUtNlhHX3Vlek5vU1JRYjJSY2hxZmZtMmxoWWdCY29zM0dOQWlqclZ1THlpNkdZQk5xT1pUcVU?oc=5\" target=\"_blank\">Steelers' Aaron Rodgers throws two TDs to tie Peyton Manning on all-time list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN Singapore</font>",
+    "languages": "en"
+  },
+  {
+    "id": "6059f6b5-d309-4a23-82a0-c096edd4ca90",
+    "title": "“India is a huge market, and Tatarstan has all the necessary resources” - realnoevremya.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2Q3TGJqQURkWG5QNmhBa1FBX043MDU3ZkV2djlwWG5aYVc5M05IOUJIUzllMktXZjg0anB5LXUwbGRlQVNnbEZ2UXhhLW9BWFFMY1dEazc0c0hyX3h3R0pBTlFOZkFyOS1OY1p4d3lEYkswc3h3bjBBc1d5MlVKWWNIb09IYU1ldnhqNU1NbWNhdVlWNnVhUXI0TFpmOGpxbmFmR1hlSkEwMExn?oc=5",
+    "published": "2026-10-19 05:45:52",
+    "source": "realnoevremya.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ2Q3TGJqQURkWG5QNmhBa1FBX043MDU3ZkV2djlwWG5aYVc5M05IOUJIUzllMktXZjg0anB5LXUwbGRlQVNnbEZ2UXhhLW9BWFFMY1dEazc0c0hyX3h3R0pBTlFOZkFyOS1OY1p4d3lEYkswc3h3bjBBc1d5MlVKWWNIb09IYU1ldnhqNU1NbWNhdVlWNnVhUXI0TFpmOGpxbmFmR1hlSkEwMExn?oc=5\" target=\"_blank\">“India is a huge market, and Tatarstan has all the necessary resources”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">realnoevremya.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "24317b4d-bd62-46d6-a225-53a113dec9eb",
+    "title": "Still Chic After All These Years - richmondmagazine.com",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIaEhxSHRZXzR6U296TVdHMWhIV0JEc0E0YmVrNUZORExQZnVLcVhQY25wc0syM1lETndSRGxHYlR4YlByYXdGMTZKUy1RTWRKM2ZhZ3lPZHA2ZU1pSDEtMUFFNkxIekU0OVU4?oc=5",
+    "published": "2026-10-19 04:00:00",
+    "source": "richmondmagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBIaEhxSHRZXzR6U296TVdHMWhIV0JEc0E0YmVrNUZORExQZnVLcVhQY25wc0syM1lETndSRGxHYlR4YlByYXdGMTZKUy1RTWRKM2ZhZ3lPZHA2ZU1pSDEtMUFFNkxIekU0OVU4?oc=5\" target=\"_blank\">Still Chic After All These Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">richmondmagazine.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "d7e69a24-4a5d-4b8a-95fd-a71223d06518",
+    "title": "Plan to add officers to all Metro Schools - WFSB",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1VldnOExrbV9LbzhWNDlnY1EtQVcwVmU3c3ZBVFg1RDhseVRvdEFKelBZTlJXczhXU2dpWXBKenNiZkp0X3pTSEc4S0tVbE1hN054SDdLTDNvQV9UUFdXdDlZREh5Qkp2SExucDI0el9mVGNVOGpYT2p1ald6ZDQ?oc=5",
+    "published": "2026-10-19 00:10:02",
+    "source": "WFSB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA1VldnOExrbV9LbzhWNDlnY1EtQVcwVmU3c3ZBVFg1RDhseVRvdEFKelBZTlJXczhXU2dpWXBKenNiZkp0X3pTSEc4S0tVbE1hN054SDdLTDNvQV9UUFdXdDlZREh5Qkp2SExucDI0el9mVGNVOGpYT2p1ald6ZDQ?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFSB</font>",
+    "languages": "en"
+  },
+  {
+    "id": "a43564cc-3ea8-4e61-9f76-55fff01b482b",
+    "title": "All lanes reopened on portion of WIS 81 in Rock Co. after crash - WMTV 15 NEWS",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkVxQk9OYkpjcWpwOWRtTkNWOTF3dGZZQ3ZlUk5yMTUwQ0hfZ0NUaF8xelh1S1dEN0VhcHh1VVMyM05FN0ZrN1RSdVpSc1luNHZ6YlR3VTctSDRqeU8xUko5ZExyN0dDOUhvcHRyUDR1eHhGWm9CVE1vZVZkcjdpcF9PbDRRcHBOWGlsaU1rQzh5ZVFycHBaMmdtTFNxTzQ?oc=5",
+    "published": "2026-10-19 02:22:00",
+    "source": "WMTV 15 NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkVxQk9OYkpjcWpwOWRtTkNWOTF3dGZZQ3ZlUk5yMTUwQ0hfZ0NUaF8xelh1S1dEN0VhcHh1VVMyM05FN0ZrN1RSdVpSc1luNHZ6YlR3VTctSDRqeU8xUko5ZExyN0dDOUhvcHRyUDR1eHhGWm9CVE1vZVZkcjdpcF9PbDRRcHBOWGlsaU1rQzh5ZVFycHBaMmdtTFNxTzQ?oc=5\" target=\"_blank\">All lanes reopened on portion of WIS 81 in Rock Co. after crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMTV 15 NEWS</font>",
+    "languages": "en"
+  },
+  {
+    "id": "f16af8ba-1f04-4a4f-b2f7-a844cf5b6c51",
+    "title": "Plan to add officers to all Metro Schools - FOX5 Vegas",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGMxRDd5ZlE5NFJEREg5NW5nbTdWT2E3dnNQeHJEOGFmOXNkYTlLdGllcFhJS21WcGtLMlFVTGswTUNfWDBkcmdKUEJzLXZtRXVLTGlmWjgxQzMzLTV3dU9WMkJXY09KdHRjbllDTF91bS1VMjYwMzlmMlNvck1YTTloS3VCUQ?oc=5",
+    "published": "2026-10-19 00:10:53",
+    "source": "FOX5 Vegas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGMxRDd5ZlE5NFJEREg5NW5nbTdWT2E3dnNQeHJEOGFmOXNkYTlLdGllcFhJS21WcGtLMlFVTGswTUNfWDBkcmdKUEJzLXZtRXVLTGlmWjgxQzMzLTV3dU9WMkJXY09KdHRjbllDTF91bS1VMjYwMzlmMlNvck1YTTloS3VCUQ?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX5 Vegas</font>",
+    "languages": "en"
+  },
+  {
+    "id": "100db3ca-396f-49f2-a76d-3589520d4b5d",
+    "title": "Packers improve their all-time NFL record with Cowboys beatdown - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUVacFJjSVQ3S2RGUEwydUYtRUxVc0FuWGtGZElkbzdIcURvdDJscjBNLUFCRXRsQ3ZGYW9uY3BJS3dEa19KdkhoajRjYlpWVkNmVGhDODVxOVRZTllzVktrS21nSEVqbXFXMlhWTkhNZ2VsbmNkTkQ5Yk41M3JpQXRxZlJCVW8?oc=5",
+    "published": "2026-10-19 05:24:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUVacFJjSVQ3S2RGUEwydUYtRUxVc0FuWGtGZElkbzdIcURvdDJscjBNLUFCRXRsQ3ZGYW9uY3BJS3dEa19KdkhoajRjYlpWVkNmVGhDODVxOVRZTllzVktrS21nSEVqbXFXMlhWTkhNZ2VsbmNkTkQ5Yk41M3JpQXRxZlJCVW8?oc=5\" target=\"_blank\">Packers improve their all-time NFL record with Cowboys beatdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "be3fe50b-2a28-4c01-80a2-db770bdcbbfc",
+    "title": "BROADWAY REVIEW: All-star cast revives ‘Other Desert Cities’ in a very different America - New York Daily News",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2pDdHA3T1VkQll4d0ZYZWt3bGUzSmlqWFRGVHVOSUNVN09LLTY4NWlpU09hblF4eEdtWDRwc2lqRHFpbWVDMElsOGVYSi1WbGE4algybXZIUURSWnNaT0ZaYTRKdUFVUjZkOHFIclBHdWJRU2VfVVpicVlyX1ZCTkVFajhYSnFIYkljLWpuak9rdnBibkJ2akZFVHdzY0JLaTJuZUo3SE5VczFmTXozWG9tVHVjZlotS3ZvRjE2U21DM0U?oc=5",
+    "published": "2026-10-19 04:00:19",
+    "source": "New York Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2pDdHA3T1VkQll4d0ZYZWt3bGUzSmlqWFRGVHVOSUNVN09LLTY4NWlpU09hblF4eEdtWDRwc2lqRHFpbWVDMElsOGVYSi1WbGE4algybXZIUURSWnNaT0ZaYTRKdUFVUjZkOHFIclBHdWJRU2VfVVpicVlyX1ZCTkVFajhYSnFIYkljLWpuak9rdnBibkJ2akZFVHdzY0JLaTJuZUo3SE5VczFmTXozWG9tVHVjZlotS3ZvRjE2U21DM0U?oc=5\" target=\"_blank\">BROADWAY REVIEW: All-star cast revives ‘Other Desert Cities’ in a very different America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Daily News</font>",
+    "languages": "en"
+  },
+  {
+    "id": "37b114c3-2350-4ce8-a168-a5320ba039c2",
+    "title": "Trunk-or-Treat event brings all the fun to Penguin City - WKBN.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemRPSjVJVTFUS2l4WXkxRlBZaXVaU0E1anUxZFFFOTdqRlJTdmFqZmhjQkY2dlp4OGl0UUlLeEt2YTdXY2otaWxNbFFqeXRQSHJSbTQ0eTZtSms5OWZpTHF3UG1UUkpFUEpkclJqQnlBMWduX2dwNkZhb0pyS0d2TmVQd1JGN01Jc3Z5WE4xM1NxWnpzclhuR1BWbzFoSHN0TVh2QTRhdDFQajdjcWfSAbMBQVVfeXFMTUY1ZE1ZSHQ4ZGZRS0QxMGlBeW5SQU5zc0VDcnlqdkJOaWNqbWJVMHJzb0s4aDZvc3c5Y1VKYVdaRGkwUVZhd0JRb2o3LTlscXRDSnRYZ3ExUDFSVUNmR1pxR3FFTUhtYnNqMGlEZVItVVR6Wkxxa2pVS1I0LW80V2syVUtYNXp1WEVGX2YtbjBaRXAwRUl3UWdyTklEeXlGd19POFp5NS1KUnNWdDI0YV9SN3M?oc=5",
+    "published": "2026-10-19 02:47:10",
+    "source": "WKBN.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPemRPSjVJVTFUS2l4WXkxRlBZaXVaU0E1anUxZFFFOTdqRlJTdmFqZmhjQkY2dlp4OGl0UUlLeEt2YTdXY2otaWxNbFFqeXRQSHJSbTQ0eTZtSms5OWZpTHF3UG1UUkpFUEpkclJqQnlBMWduX2dwNkZhb0pyS0d2TmVQd1JGN01Jc3Z5WE4xM1NxWnpzclhuR1BWbzFoSHN0TVh2QTRhdDFQajdjcWfSAbMBQVVfeXFMTUY1ZE1ZSHQ4ZGZRS0QxMGlBeW5SQU5zc0VDcnlqdkJOaWNqbWJVMHJzb0s4aDZvc3c5Y1VKYVdaRGkwUVZhd0JRb2o3LTlscXRDSnRYZ3ExUDFSVUNmR1pxR3FFTUhtYnNqMGlEZVItVVR6Wkxxa2pVS1I0LW80V2syVUtYNXp1WEVGX2YtbjBaRXAwRUl3UWdyTklEeXlGd19POFp5NS1KUnNWdDI0YV9SN3M?oc=5\" target=\"_blank\">Trunk-or-Treat event brings all the fun to Penguin City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKBN.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "310e530d-efde-4158-8d89-d928d5a58e61",
+    "title": "“You go toward this match all season”: preview of the final between “Strela-Ak Bars” and “Dynamo” - Realnoe vremya",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2JPbmhJSVFLd1E3TjFfT29iamFuMUVMX2pQR0ZlbEZnUFhXYlRNX1ZrYTExWWFhekpWNGdqVzVya3NYY09ZX1VvQ0t6dnhxOWwzUXZIUUVuSkdveGFYNjVhOHdWeUxyeDFjci1rYjdJQXNpNm1TS3drb1pGYm8zU2pGOHBMdi02Ml9rR0tKcVp6S25Wd1NiSklhTUtZNUxacm1WUjhkcHI0dw?oc=5",
+    "published": "2026-10-19 05:43:31",
+    "source": "Realnoe vremya",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2JPbmhJSVFLd1E3TjFfT29iamFuMUVMX2pQR0ZlbEZnUFhXYlRNX1ZrYTExWWFhekpWNGdqVzVya3NYY09ZX1VvQ0t6dnhxOWwzUXZIUUVuSkdveGFYNjVhOHdWeUxyeDFjci1rYjdJQXNpNm1TS3drb1pGYm8zU2pGOHBMdi02Ml9rR0tKcVp6S25Wd1NiSklhTUtZNUxacm1WUjhkcHI0dw?oc=5\" target=\"_blank\">“You go toward this match all season”: preview of the final between “Strela-Ak Bars” and “Dynamo”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Realnoe vremya</font>",
+    "languages": "en"
+  },
+  {
+    "id": "615231c0-7776-48ab-9afb-b4d364491be6",
+    "title": "Plan to add officers to all Metro Schools - fox10tv.com",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjBzSFdzVVJOcHhOaENVVlJHQ3A0aFRDLXgzU3VEZEhfV0hOaS13alVLVkNLMklIZk5NWVYzUzA4RkNMR2FmeHRiUmJLT2hWdmF0M1g1X3NpVURJSlp0MkhpTXdMc3dkdjJNYzRJb2pzLUdZQ01VTVVtaUpCbTA2ak95Yw?oc=5",
+    "published": "2026-10-19 00:10:42",
+    "source": "fox10tv.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjBzSFdzVVJOcHhOaENVVlJHQ3A0aFRDLXgzU3VEZEhfV0hOaS13alVLVkNLMklIZk5NWVYzUzA4RkNMR2FmeHRiUmJLT2hWdmF0M1g1X3NpVURJSlp0MkhpTXdMc3dkdjJNYzRJb2pzLUdZQ01VTVVtaUpCbTA2ak95Yw?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "482b1b23-456b-4515-a657-b06082992eb0",
+    "title": "GAME NIGHT: Wild all BUSINESS against Blue Jackets, Calgary SURPRISES Carolina, Fun with Analytics - 11Alive.com",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYjRLa09iZS1hT1ZLcVZWV2ZqdmFzS0VPaE4zTEpZVmgwT05PWnNUTzhjakxxUzFadURVa2o4bGZkNlBxZEtMcDVXdG91WTBvUWtGYjFjcVdnRFByamdENjN3czBXMVEzWHN4Q3NpdjN6NVNaMS1ValNYdi1YUFdydFFhNGZ0b1JtX2F3M2IyWVVJVWdEcHkxZjRDQU5qQk1BSG9oRllncG5raXRwX0JkX21vUWFxU0xiZk9oYWliWVh3VjFIblo4N2w4Mjc2ZUxPdW5XeF8wdUFBNDlEUHJMejhibDB1WlhIYnd0Tk1GWDVDOVdNZVloQlYtWHZxeDJXY1lv?oc=5",
+    "published": "2026-10-19 04:17:00",
+    "source": "11Alive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPYjRLa09iZS1hT1ZLcVZWV2ZqdmFzS0VPaE4zTEpZVmgwT05PWnNUTzhjakxxUzFadURVa2o4bGZkNlBxZEtMcDVXdG91WTBvUWtGYjFjcVdnRFByamdENjN3czBXMVEzWHN4Q3NpdjN6NVNaMS1ValNYdi1YUFdydFFhNGZ0b1JtX2F3M2IyWVVJVWdEcHkxZjRDQU5qQk1BSG9oRllncG5raXRwX0JkX21vUWFxU0xiZk9oYWliWVh3VjFIblo4N2w4Mjc2ZUxPdW5XeF8wdUFBNDlEUHJMejhibDB1WlhIYnd0Tk1GWDVDOVdNZVloQlYtWHZxeDJXY1lv?oc=5\" target=\"_blank\">GAME NIGHT: Wild all BUSINESS against Blue Jackets, Calgary SURPRISES Carolina, Fun with Analytics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+    "languages": "en"
+  },
+  {
+    "id": "00b980ce-81ca-48f9-865f-8375d284863f",
+    "title": "Yandy Díaz, Rays on the cusp of a World Series trip after ALCS Game 5 win over Guardians: 'It all ends tomorrow' - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbTc0N0RyeEE0VUx0ckpFcjdWY3I2N1RKQS1mQzFHZ0VITmNlamF3U3o0N3VjenF1WFU3M2M5by1jWFpBVG11ZExhb1Q5a3N1TDBpcDRwYk5HNzNCVzNVeURraE5odEZfbnB5anlpdk8wWDZlWndJSl92Q0dPYVQ2bkhjMEpKNHMycjdlSWlUdG81RFVjcll5a1dvREhmOE1QMVowb3podEFPdk4zRnE1YVNldldyN0pkNVBLdmFSakpfaVVqNEJGUGs3M3c1VEZ6N0R1Q2d0eWFjclJaTnpXVjFGcXBRVXVUa2xMeHRIRXExUQ?oc=5",
+    "published": "2026-10-19 05:16:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbTc0N0RyeEE0VUx0ckpFcjdWY3I2N1RKQS1mQzFHZ0VITmNlamF3U3o0N3VjenF1WFU3M2M5by1jWFpBVG11ZExhb1Q5a3N1TDBpcDRwYk5HNzNCVzNVeURraE5odEZfbnB5anlpdk8wWDZlWndJSl92Q0dPYVQ2bkhjMEpKNHMycjdlSWlUdG81RFVjcll5a1dvREhmOE1QMVowb3podEFPdk4zRnE1YVNldldyN0pkNVBLdmFSakpfaVVqNEJGUGs3M3c1VEZ6N0R1Q2d0eWFjclJaTnpXVjFGcXBRVXVUa2xMeHRIRXExUQ?oc=5\" target=\"_blank\">Yandy Díaz, Rays on the cusp of a World Series trip after ALCS Game 5 win over Guardians: 'It all ends tomorrow'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "c250cbc7-9a48-4f79-882c-9ae2b2caff07",
+    "title": "Cowboys lose All-Pro to injury on opening play vs Packers - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2Nici1UZ0dURk1HaWlzSUFyM2ZzdVBtYW4tdjNOMDlnLUpIem5fWTNtR0o4OXMzb18zTXFrODR5WGRZYmR5ZmFCbWVyX1Q5Tm9mNkRrZndNNDVGRlJPcFJWaUhfZkViNURJNG9qTk1iMjB5bGZZamlRbHlQQXBqemxjeFR2NkE?oc=5",
+    "published": "2026-10-19 01:11:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2Nici1UZ0dURk1HaWlzSUFyM2ZzdVBtYW4tdjNOMDlnLUpIem5fWTNtR0o4OXMzb18zTXFrODR5WGRZYmR5ZmFCbWVyX1Q5Tm9mNkRrZndNNDVGRlJPcFJWaUhfZkViNURJNG9qTk1iMjB5bGZZamlRbHlQQXBqemxjeFR2NkE?oc=5\" target=\"_blank\">Cowboys lose All-Pro to injury on opening play vs Packers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "f9ceda32-dd1d-45d2-9c22-09f0162d2167",
+    "title": "The best mystery books ever written - The Week",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOEhPWlhJUXlSd0NiSF8yVGlDaE82NXBxc3BaeFlkUkxZLW1xUGtEa2J5eExoSlRybzh0aVVMM01iWVMzSlFNT1h5WHhxOGdRaENIdy1HRzFVTkJOWHpmU2wyU0lDU1pSanRRemtoYTBHbjFwdWZkMGZIMjVxSnc1OW0xV3RVX2k4WktwR1YzLUdSNGpBVkdyZ2JBc21TeWlYRnRfMExn?oc=5",
+    "published": "2026-10-19 06:01:40",
+    "source": "The Week",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOOEhPWlhJUXlSd0NiSF8yVGlDaE82NXBxc3BaeFlkUkxZLW1xUGtEa2J5eExoSlRybzh0aVVMM01iWVMzSlFNT1h5WHhxOGdRaENIdy1HRzFVTkJOWHpmU2wyU0lDU1pSanRRemtoYTBHbjFwdWZkMGZIMjVxSnc1OW0xV3RVX2k4WktwR1YzLUdSNGpBVkdyZ2JBc21TeWlYRnRfMExn?oc=5\" target=\"_blank\">The best mystery books ever written</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>",
+    "languages": "en"
+  },
+  {
+    "id": "07f932b1-0217-4d2c-a0f5-440f7d6ebe45",
+    "title": "Ex-Packers All-Timer Limps Off Field With Non-Contact Injury - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ21DX3poem1mQWJVWXlROVp5N3JSLWd3U3NmdnhReWx6UWRQU0FLajNNSS1HQWpmNzgwNGZ2X2x3MnJHNkszd2dHZnBzQ1dWX1RWdV9DMmM0M1hWMjIyTXRnalEwV0Ftcm0yVXBWVXFCSmtIOExHZXd6UGRZWEFWRw?oc=5",
+    "published": "2026-10-19 03:06:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ21DX3poem1mQWJVWXlROVp5N3JSLWd3U3NmdnhReWx6UWRQU0FLajNNSS1HQWpmNzgwNGZ2X2x3MnJHNkszd2dHZnBzQ1dWX1RWdV9DMmM0M1hWMjIyTXRnalEwV0Ftcm0yVXBWVXFCSmtIOExHZXd6UGRZWEFWRw?oc=5\" target=\"_blank\">Ex-Packers All-Timer Limps Off Field With Non-Contact Injury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "7b2f4fb3-4dd3-4098-85ce-93971b271e77",
+    "title": "Egypt Vows 'all Possible Forms Of Support' To Saudi Arabia Against The Houthis | LIVE BLOG - i24NEWS",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMGw3SnRVNVVOZk1NTnBfT05IN21DeUg5U01OM0lfb3J2WUtmSXcwV2EtN2FwNERlWFpwcmlXTVdSalJUMzRJMXM0Y0Zia0drWGNvQkJwV0NKamlocWFUUTgwQ0tmWDdyb2NOOGxLa19mM3EyODNXYmRCV01EckR3OHpUYUdrRDB4ZlZYa3p4SW13cDU2dkozWHFXX3RHMUVYLTlSUjlWd3lTTUdmUWZXNlVVQzhiSXkwWGYyQWc1TjJjRHRjbDdEeWFxTDVlTDQ?oc=5",
+    "published": "2026-10-19 03:24:00",
+    "source": "i24NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPMGw3SnRVNVVOZk1NTnBfT05IN21DeUg5U01OM0lfb3J2WUtmSXcwV2EtN2FwNERlWFpwcmlXTVdSalJUMzRJMXM0Y0Zia0drWGNvQkJwV0NKamlocWFUUTgwQ0tmWDdyb2NOOGxLa19mM3EyODNXYmRCV01EckR3OHpUYUdrRDB4ZlZYa3p4SW13cDU2dkozWHFXX3RHMUVYLTlSUjlWd3lTTUdmUWZXNlVVQzhiSXkwWGYyQWc1TjJjRHRjbDdEeWFxTDVlTDQ?oc=5\" target=\"_blank\">Egypt Vows 'all Possible Forms Of Support' To Saudi Arabia Against The Houthis | LIVE BLOG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i24NEWS</font>",
+    "languages": "en"
+  },
+  {
+    "id": "49215744-2d34-473f-adc1-cd108fcfbdd6",
+    "title": "Employers Must Report All Worker Separations Through Online Portal - Parsippany Focus",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTU9PdHZRX01MOUVSNHVZRWNxbkhiNEhfREVjTTkzTm4tSGVhWnFHMlp2dkJXNlZsdzQ5bnhhcTJvWUpXa2VUX3ZYN3RFaVU4YW1rS3l0RkFUckowZ1dmLURSeFZrUTJOVVBvbHBJYXA2SXVDTmk3MEVrNHhHRHd2RUh5c2hxdVdfYWgwZkhSTGFtaHR4ZmZCa3QyTQ?oc=5",
+    "published": "2026-10-19 03:32:45",
+    "source": "Parsippany Focus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTU9PdHZRX01MOUVSNHVZRWNxbkhiNEhfREVjTTkzTm4tSGVhWnFHMlp2dkJXNlZsdzQ5bnhhcTJvWUpXa2VUX3ZYN3RFaVU4YW1rS3l0RkFUckowZ1dmLURSeFZrUTJOVVBvbHBJYXA2SXVDTmk3MEVrNHhHRHd2RUh5c2hxdVdfYWgwZkhSTGFtaHR4ZmZCa3QyTQ?oc=5\" target=\"_blank\">Employers Must Report All Worker Separations Through Online Portal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parsippany Focus</font>",
+    "languages": "en"
+  },
+  {
+    "id": "d788a1f2-5054-40de-9397-fd17ee423b3f",
+    "title": "Plan to add officers to all Metro Schools - AZ Family",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFJQeExwQXpQUUN5eGJkY0VBb0hWLVp2UUo4RDMwUmRIbGtyZlptbEppV0MzTUdYSDdmTVF2bThmWnpwazA2UmswY2tvUU53S3ZSUGt2dDl4dG9ZNkRQSFdERTNiSkV3dkgxdVZIdHltUXZTLU5JOHAzbHI4dUczNExjSjA?oc=5",
+    "published": "2026-10-19 00:11:11",
+    "source": "AZ Family",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFJQeExwQXpQUUN5eGJkY0VBb0hWLVp2UUo4RDMwUmRIbGtyZlptbEppV0MzTUdYSDdmTVF2bThmWnpwazA2UmswY2tvUU53S3ZSUGt2dDl4dG9ZNkRQSFdERTNiSkV3dkgxdVZIdHltUXZTLU5JOHAzbHI4dUczNExjSjA?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+    "languages": "en"
+  },
+  {
+    "id": "0a8a2145-3562-479f-bd7b-ca15dc7f7a6c",
+    "title": "Plan to add officers to all Metro Schools - WOWT",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUem13czdvS3U0SGFSNk0tV05QbmhzbkM3dExra3gxSFpyeHk5ZlQ0THNvSXFweFFpaFJNM3ZUcTRaYW9wbmFtQ0NPVUZJR0NkeVhhZ1ZIYUM2bGpia2x4d0RuUVp4cFV4enBVamx0aWExQm94RkJGS1B6RzQ2LUU?oc=5",
+    "published": "2026-10-19 00:10:43",
+    "source": "WOWT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUem13czdvS3U0SGFSNk0tV05QbmhzbkM3dExra3gxSFpyeHk5ZlQ0THNvSXFweFFpaFJNM3ZUcTRaYW9wbmFtQ0NPVUZJR0NkeVhhZ1ZIYUM2bGpia2x4d0RuUVp4cFV4enBVamx0aWExQm94RkJGS1B6RzQ2LUU?oc=5\" target=\"_blank\">Plan to add officers to all Metro Schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOWT</font>",
+    "languages": "en"
+  },
+  {
+    "id": "41d5e4ce-c38d-42c6-8d65-70483d809d91",
+    "title": "Ex-Eagles Star Ejected for Spitting on Raiders All-Pro TE Brock Bowers - Yahoo Sports",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDlVSVlfenNudW5vUlVGQU9iQzRtX0JwQjg0Smx5b0pSRHBWbllzeXVzN0FDdlVvbjU3dHdVbjhjNG04YTNlZ3h2TmhaNTMyMDYyd3ZtZDQ3REsyOHNBbXZ4cjdVQzBjSG9EWHcxdjJFaUlzWURoUFpTYjQyTzMtN2hBSFNMa3M?oc=5",
+    "published": "2026-10-19 02:41:00",
+    "source": "Yahoo Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDlVSVlfenNudW5vUlVGQU9iQzRtX0JwQjg0Smx5b0pSRHBWbllzeXVzN0FDdlVvbjU3dHdVbjhjNG04YTNlZ3h2TmhaNTMyMDYyd3ZtZDQ3REsyOHNBbXZ4cjdVQzBjSG9EWHcxdjJFaUlzWURoUFpTYjQyTzMtN2hBSFNMa3M?oc=5\" target=\"_blank\">Ex-Eagles Star Ejected for Spitting on Raiders All-Pro TE Brock Bowers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "languages": "en"
+  },
+  {
+    "id": "26b3cb0b-4426-4865-ab29-6bde5fa2e900",
+    "title": "3 reasons all churches should pay attention to HPUMC right now - Baptist News Global",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTJONEE5alk5QzNVSmhzdFF1TEZ1REEwM2E1bVVpemZ5bGwzajlPQnRkQTRzSzlXelljdGZCWEtEQlZzTDFZcVlHVGhHMHlqb213UndLblpFYzVYbmVmdkRRaFBpSkllRk9lRU92QmNlQ1J3VWxGZWtBcHVZOHpOZzFqaktuVUdLRVBTTFUyQ1lSVDhkMndIYnMzdw?oc=5",
+    "published": "2026-10-19 05:50:53",
+    "source": "Baptist News Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTJONEE5alk5QzNVSmhzdFF1TEZ1REEwM2E1bVVpemZ5bGwzajlPQnRkQTRzSzlXelljdGZCWEtEQlZzTDFZcVlHVGhHMHlqb213UndLblpFYzVYbmVmdkRRaFBpSkllRk9lRU92QmNlQ1J3VWxGZWtBcHVZOHpOZzFqaktuVUdLRVBTTFUyQ1lSVDhkMndIYnMzdw?oc=5\" target=\"_blank\">3 reasons all churches should pay attention to HPUMC right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baptist News Global</font>",
+    "languages": "en"
+  },
+  {
+    "id": "51a9a203-2426-4568-bc36-d5b949942236",
+    "title": "A breakdown of how all ranked GHSA football teams fared in Week 9 - The Atlanta Journal-Constitution",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmxRQjdGOHdBY1gwelp2Y2dLbDRSTkdkNlBuZ3VJQ3FCYUJGVlRZYnhsZnBCZ0h3RlotM1p4QmN0N21NUXpIMmUyX1hQZzBEQ05SMlBRZnAxWm1LbWtUZ0tVUXd4VnNnb0tuNjZ2RzIweVJMajJWNjFfLUdXNHUzbnBOdFVzVVVJM290Zm1mWVByQjllZ0hGN3dsb1FZNnplWDYw?oc=5",
+    "published": "2026-10-19 02:45:30",
+    "source": "The Atlanta Journal-Constitution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmxRQjdGOHdBY1gwelp2Y2dLbDRSTkdkNlBuZ3VJQ3FCYUJGVlRZYnhsZnBCZ0h3RlotM1p4QmN0N21NUXpIMmUyX1hQZzBEQ05SMlBRZnAxWm1LbWtUZ0tVUXd4VnNnb0tuNjZ2RzIweVJMajJWNjFfLUdXNHUzbnBOdFVzVVVJM290Zm1mWVByQjllZ0hGN3dsb1FZNnplWDYw?oc=5\" target=\"_blank\">A breakdown of how all ranked GHSA football teams fared in Week 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlanta Journal-Constitution</font>",
+    "languages": "en"
+  },
+  {
+    "id": "0b9eff96-58fd-42d7-af73-9a5bfdaa9dab",
+    "title": "Benson ‘all in’ as WVU’s 27th president - Herald-Standard",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQy11Zzlwc0lidUlIN3VuM2xtcUtySHBzV0JhYktNNzZuVVhPM2d6U1I4Wm4wMWpFV0tJTmd5TXpkQXBCOUN6ZDhQTzlTUDFLZHB0VTRDNlRKeVViTWJzUUhjYkttT2V6V0E4OUVRRXl4c0ZaWGR0Q2hWYklHcHNUMVI1dDIzN01IeEp6SUVzNnMzM1B3NkhFMVE1ZEw?oc=5",
+    "published": "2026-10-19 03:52:39",
+    "source": "Herald-Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQy11Zzlwc0lidUlIN3VuM2xtcUtySHBzV0JhYktNNzZuVVhPM2d6U1I4Wm4wMWpFV0tJTmd5TXpkQXBCOUN6ZDhQTzlTUDFLZHB0VTRDNlRKeVViTWJzUUhjYkttT2V6V0E4OUVRRXl4c0ZaWGR0Q2hWYklHcHNUMVI1dDIzN01IeEp6SUVzNnMzM1B3NkhFMVE1ZEw?oc=5\" target=\"_blank\">Benson ‘all in’ as WVU’s 27th president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herald-Standard</font>",
+    "languages": "en"
+  },
+  {
+    "id": "b24ad0d6-ad70-4b6e-8902-42715b1fdb01",
+    "title": "Packers’ Defense Is Clicking on all Cylinders at Just the Right Time - Sports Illustrated",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80ZmxsNXRtVno5UHc3ejhTT08zcHYwU29nOXpHWG1MMGNuTlRkTkllMzVYYnJ2Q3R3VUpDVEExcmVJTjlPSnBkRC1ySF9sX3dwcmNRdnJKWHdiQTBYZWxoR0MxeGJNN2ROdVk0QUNJcWRUb2tKVG5ZemN4dk0?oc=5",
+    "published": "2026-10-19 04:30:52",
+    "source": "Sports Illustrated",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE80ZmxsNXRtVno5UHc3ejhTT08zcHYwU29nOXpHWG1MMGNuTlRkTkllMzVYYnJ2Q3R3VUpDVEExcmVJTjlPSnBkRC1ySF9sX3dwcmNRdnJKWHdiQTBYZWxoR0MxeGJNN2ROdVk0QUNJcWRUb2tKVG5ZemN4dk0?oc=5\" target=\"_blank\">Packers’ Defense Is Clicking on all Cylinders at Just the Right Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sports Illustrated</font>",
+    "languages": "en"
+  },
+  {
+    "id": "ad6b6048-e8bb-4a46-90bd-d10f5f885a08",
+    "title": "Every Performance You Missed at the Victoria’s Secret Show - Harper's BAZAAR",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUxiZ1c5R0pic2liSFFBNU9LaEEtMkJPUHJvQ2xIYnZTeUZDU2F5MnBLeUJfN3l1T0RTTWpQZnlOSjV1UWtNYkl3eDg3OWZlQkV2MzZ3VnJKUlRaOTliUHIzbDJfdHBsQ0UwOTlmalBBRTlCSlFmYnptQmI1cVdjamhtdWp6UWc3OGhsQ29xQjV6WDZpTngzMUFzWnN4MGZ3aEVoY01JcXp2SWdhaVI2THdB?oc=5",
+    "published": "2026-10-19 02:20:41",
+    "source": "Harper's BAZAAR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYUxiZ1c5R0pic2liSFFBNU9LaEEtMkJPUHJvQ2xIYnZTeUZDU2F5MnBLeUJfN3l1T0RTTWpQZnlOSjV1UWtNYkl3eDg3OWZlQkV2MzZ3VnJKUlRaOTliUHIzbDJfdHBsQ0UwOTlmalBBRTlCSlFmYnptQmI1cVdjamhtdWp6UWc3OGhsQ29xQjV6WDZpTngzMUFzWnN4MGZ3aEVoY01JcXp2SWdhaVI2THdB?oc=5\" target=\"_blank\">Every Performance You Missed at the Victoria’s Secret Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harper's BAZAAR</font>",
+    "languages": "en"
+  },
+  {
+    "id": "20527c7d-8d93-4317-9fbd-68fe5d3bf2ce",
+    "title": "Beshear Says All WKY Tornado Recovery Apartments Are Under Construction - WPKY",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVENvQ1E1QTZvWTVHdGl2V3dLc0ItYWNlWlRpZ1dVc3RtY0dIS0RiLTRwOUVPS1JCWGVKVjctOGw0V2xpaS1vRUZGZjN4YWdWZGJNdm4tZk5sbXROLXV1V2JlbGk1T09leTZ1dzl3WEhWRG9XT2dxV3RFMERnaG5fbU51MXJzanlfbXBsVmhWRm9wZU1tMTNDWUl3dHAwQ0tvbllxT29UR21UZ2RkUmZzTllRR1o3ZWNaeXBqRg?oc=5",
+    "published": "2026-10-19 02:08:06",
+    "source": "WPKY",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVENvQ1E1QTZvWTVHdGl2V3dLc0ItYWNlWlRpZ1dVc3RtY0dIS0RiLTRwOUVPS1JCWGVKVjctOGw0V2xpaS1vRUZGZjN4YWdWZGJNdm4tZk5sbXROLXV1V2JlbGk1T09leTZ1dzl3WEhWRG9XT2dxV3RFMERnaG5fbU51MXJzanlfbXBsVmhWRm9wZU1tMTNDWUl3dHAwQ0tvbllxT29UR21UZ2RkUmZzTllRR1o3ZWNaeXBqRg?oc=5\" target=\"_blank\">Beshear Says All WKY Tornado Recovery Apartments Are Under Construction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPKY</font>",
+    "languages": "en"
   }
 ]
